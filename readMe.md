@@ -9,6 +9,9 @@ The sentiment scores are then aggregated to calculate an average sentiment score
 
 ## Usage
 1. Set up Twitter API credentials by creating environment variables for `TWITTER_CONSUMER_KEY`, `TWITTER_CONSUMER_SECRET`, `TWITTER_ACCESS_TOKEN`, and `TWITTER_ACCESS_TOKEN_SECRET`.
+
+**Twitter is now X. Yes, we need to update that one..**
+
 2. Run the main script:
    ```sh
    python main.py
